@@ -2,7 +2,7 @@
 
 😽 Beginning Android Developer
 
-[![CV](https://img.shields.io/badge/Whoami-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vafeen/whoami/blob/main/README.md) [![Download CV](https://img.shields.io/badge/Download_CV-171515?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Vafeen/curriculum-vitae/main/vafeen.pdf)
+[![CV](https://img.shields.io/badge/CV-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vafeen/whoami/blob/main/README.md) [![Download CV](https://img.shields.io/badge/Download_CV-171515?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Vafeen/curriculum-vitae/main/vafeen.pdf)
 ## Contacts
 
 [![Habr](https://img.shields.io/badge/Habr-77A2D6?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/vafeen/)  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vafeen)
