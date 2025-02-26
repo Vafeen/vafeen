@@ -15,7 +15,7 @@
 
 Android apps:
 
-- [learn2invest](https://github.com/vafeen/learn2Invest) - Stock market investment simulator
+- [learn2invest](https://github.com/Vafeen/learn2Invest-2.0) - Stock market investment simulator
 
 - [University schedule](https://github.com/vafeen/UniversitySchedule) - Application for tracking the schedule at the university
 
