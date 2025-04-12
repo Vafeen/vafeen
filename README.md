@@ -28,4 +28,4 @@ Android libraries:
 
 ## Other
 
-- [Cemetery of my projects](https://github.com/vafeenLabs)
+- [My experiment factory](https://github.com/vafeenLabs)
